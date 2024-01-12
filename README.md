@@ -1,5 +1,5 @@
-# Product Dashboard 24
-Built with React, Typescript, Amplify,
+# Vite React Boilerplate
+Built with React, Typescript
 
 - Install dependencies - yarn
 - Start App - yarn dev
